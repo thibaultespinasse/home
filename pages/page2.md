@@ -1,5 +1,5 @@
 ---
-layout = new
+layout: new
 ---
 
 ## this is a page
