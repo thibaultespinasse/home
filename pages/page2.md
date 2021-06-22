@@ -1,3 +1,7 @@
+---
+layout = new
+---
+
 ## this is a page
 
 [back](../../home)
