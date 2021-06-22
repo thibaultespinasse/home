@@ -1,4 +1,4 @@
 ## this is a page
 
-[back](../../home.html)
+[back](../../home)
 [page3](page3.html)
