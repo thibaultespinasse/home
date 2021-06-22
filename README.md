@@ -1,6 +1,6 @@
 ## Main page
 
-1. [Go to page 2](pages/page2)
+1. [Go to page 2](pages/page2.html)
 
 You can use the [editor on GitHub](https://github.com/thibaultespinasse/home/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
