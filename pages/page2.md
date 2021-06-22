@@ -1,5 +1,6 @@
 ---
 layout: new
+show_downloads: false
 ---
 
 ## this is a page
